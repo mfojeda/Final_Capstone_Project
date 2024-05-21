@@ -8,6 +8,6 @@ Final Report and Exploratory Data Analysis (EDA)
 
 
 Please see the attached Jupyter Notebook for my initial Analysis.
-Link to notebook: https://github.com/mfojeda/Capstone_-Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/MoneyBall-3.ipynb
+Link to Final Report: https://github.com/mfojeda/Final_Capstone_Project/blob/main/MoneyBall.pptx
 
 Dataset was provided by Kaggle: https://www.kaggle.com/datasets/wduckett/moneyball-mlb-stats-19622012?resource=download
